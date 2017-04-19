@@ -22,11 +22,11 @@
 
 #divCirculoCentro{
   position: absolute;
-  top:118px;
-  left:286px;
+  top:100px;
+  left:260px;
   border:2px solid rgb(255, 255, 255);
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   margin:auto;
 }
